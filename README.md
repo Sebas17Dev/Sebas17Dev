@@ -3,9 +3,9 @@
 </div>
 <img src="URL DE TU IMAGEN DE PERFIL">
 
-## Sobre mí
+## 🌊 Sobre mí
 
-- 🎮 Desarrollador y programador de videojuegos en Unity
+- 🎮 Game developer and programmer in Unity
 
 <br>
 
