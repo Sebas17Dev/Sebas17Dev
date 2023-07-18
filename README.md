@@ -1,9 +1,11 @@
 <div align="center">
   <h1 align="center">¡Hi! I am Sebastián Terán 👋🏻⚡️</h1>
 </div>
-<img src="URL DE TU IMAGEN DE PERFIL">
 
-## 🌊 Sobre mí
+![Banner para Github](https://github.com/Sebas17Dev/Sebas17Dev/assets/102881322/5821d9d8-f56c-4190-8dcc-a7b8cadfcc88)
+
+
+## 🌊 About me
 
 - 🎮 Game developer and programmer in Unity
 
