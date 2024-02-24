@@ -24,3 +24,9 @@
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Photoshop
 - **Other:** Responsive Design, UI/UX Design
+
+### 📫 Get in Touch
+
+- LinkedIn: [Sebastián Terán](https://www.linkedin.com/in/sebastián-terán/)
+- Twitter: [@Sebas17Dev](https://twitter.com/Sebas17Dev)
+- Website: [sebastianteran.com](https://sebastianteran.com)
