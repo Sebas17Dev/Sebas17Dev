@@ -1,21 +1,26 @@
 <div align="center">
-  <h1 align="center">¡Hi! I am Sebastián Terán 👋🏻⚡️</h1>
+  <h1 align="center">Hi there! 👋🏻 I'm Sebastián Terán</h1>
+  <p align="center">
+    <img src="https://github.com/Sebas17Dev/Sebas17Dev/blob/main/assets/banner.gif" alt="Banner for GitHub">
+  </p>
 </div>
 
-![Banner para Github](https://github.com/Sebas17Dev/Sebas17Dev/assets/102881322/5821d9d8-f56c-4190-8dcc-a7b8cadfcc88)
+## 🌊 About Me
 
+- 🎮 Web developer
+- 💡 I'm passionate about creating cool stuff with code!
 
-## 🌊 About me
-
-- 🎮 Game developer and programmer in Unity
-
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Sebas17Dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sebas17Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sebas17Dev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
+
+### 🚀 Skills
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** React, Vue.js, Flask
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Photoshop
+- **Other:** Responsive Design, UI/UX Design
