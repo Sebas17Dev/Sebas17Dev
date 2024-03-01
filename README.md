@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there! 👋🏻 I'm Sebastián Terán ⚡</h1>
   <p align="center">
-    <img src="https://github.com/Sebas17Dev/Sebas17Dev/blob/main/assets/banner.gif" alt="Banner for GitHub">
+    ![Gif para GitHub](https://github.com/Sebas17Dev/Sebas17Dev/assets/102881322/0fc19bf1-3cc6-499e-a0b1-7a2fd7cea600)
   </p>
 </div>
 
