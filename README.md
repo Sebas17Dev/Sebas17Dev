@@ -1,8 +1,9 @@
 <div align="center">
   <h1 align="center">Hi there! 👋🏻 I'm Sebastián Terán ⚡</h1>
-  <p align="center">
-    ![Gif para GitHub](https://github.com/Sebas17Dev/Sebas17Dev/assets/102881322/0fc19bf1-3cc6-499e-a0b1-7a2fd7cea600)
-  </p>
+</div>
+
+<div align="center">
+    <img width="50%" src="https://github.com/Sebas17Dev/Sebas17Dev/assets/102881322/2802a408-3774-4873-8e9f-3dcbd6b296a4"/>
 </div>
 
 ## 🌊 About Me
