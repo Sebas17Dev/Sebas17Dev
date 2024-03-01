@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there! 👋🏻⚡ I'm Sebastián Terán</h1>
+  <h1 align="center">Hi there! 👋🏻 I'm Sebastián Terán ⚡</h1>
   <p align="center">
     <img src="https://github.com/Sebas17Dev/Sebas17Dev/blob/main/assets/banner.gif" alt="Banner for GitHub">
   </p>
