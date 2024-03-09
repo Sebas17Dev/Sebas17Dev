@@ -16,8 +16,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sebas17Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sebas17Dev&layout=compact&theme=dark" alt="Top Langs">
 </p>
 
 # 🚀 My skills
@@ -28,4 +31,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sebas17Dev&layout=compact&theme=dark)
